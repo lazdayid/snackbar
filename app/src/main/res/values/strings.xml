@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Snackbar</string>
+    <string name="bottom">Default</string>
+    <string name="top">Top</string>
+    <string name="color">Color</string>
+    <string name="sound">Sound</string>
+</resources>
